@@ -1,0 +1,7 @@
+El script de bash compile.sh, compila el programa i el deixa a la carpeta
+EXE, tambe compila els tests unitaris i els deixa a la carpeta
+EXE/Tests
+
+El test.sh executa tots els tests
+
+clean.sh elimina tots els .class i el executable per si el vols recompilar

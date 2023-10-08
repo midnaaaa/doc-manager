@@ -1,0 +1,8 @@
+Aquesta carpeta conté una carpeta Tests amb tots els tests de JUnit
+el executable del programa quan es compila i una carpeta src
+on estan tots els binaris necessaris dels documents indexs etc
+
+Per executar el programa fer: java -jar MainFrame.jar
+
+IMPORTANT: SI ES VOL FER RESET DE LA APP BORRAR LA CARPETA SRC O FER SERVIR EL SCRIPT DE FONTS
+CLEAN.SH I COMPILAR DE NOU

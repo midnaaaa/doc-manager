@@ -1,0 +1,2 @@
+La carpeta lib conté les diferents llibreries usades en el gestor de documents
+src té el codi font de totes les classes i el codi dels tests unitaris i els drivers
